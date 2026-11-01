@@ -29,6 +29,9 @@ in {
 	'';
 
 	environment.systemPackages = with pkgs; [
+		poppler
+		ffmpeg
+		imagemagick
 		yazi
 	];
 }
