@@ -1,0 +1,6 @@
+[mgr]
+sort_dir_first = true
+sort_by = "alphabetical"
+show_hidden = true
+show_symlink = true
+limemode ="size_mtime"
